@@ -2,7 +2,7 @@
 
 ## Overview
 
-Ruby Calculator is a command-line arithmetic calculator application written in Ruby. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through a simple text-based interface.
+Ruby Calculator is a command-line calculator written in Ruby. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through a simple text-based interface.
 
 ## Features
 
