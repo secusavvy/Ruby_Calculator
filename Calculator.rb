@@ -1,3 +1,4 @@
+# I wrote this code while I was learning Ruby.
 print "Enter the first number: "
 num1 = gets.chomp.to_f
 
